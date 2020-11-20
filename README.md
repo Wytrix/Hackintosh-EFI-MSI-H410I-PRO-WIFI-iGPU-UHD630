@@ -1,7 +1,7 @@
 # Hackintosh-EFI-MSI-H410I-PRO-WIFI-iGPU-UHD630
 EFI file for MSI motherboard with iGPU  
 ## 版本信息（Version infomation）  
-OpenCore：0.6.3
+OpenCore：0.6.3  
 macOS：macOS Big Sur 11.0.1（20B29）
 
 ## 配置信息（Hardware infomation）  
