@@ -284,13 +284,13 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>LucyRTL8125Ethernet.kext</string>
+				<string>IntelMausi.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/LucyRTL8125Ethernet</string>
+				<string>Contents/MacOS/IntelMasui</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
