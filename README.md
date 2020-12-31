@@ -1,7 +1,9 @@
 # Hackintosh-EFI-MSI-H410I-PRO-WIFI-iGPU-UHD630
 EFI file for MSI motherboard with iGPU  
+
 ----------------------------------------------------------------  
 2021.12.31 update OpenCore 0.6.4  
+
 ----------------------------------------------------------------  
 ## 版本信息（Version infomation）  
 OpenCore：0.6.3  
