@@ -2,7 +2,7 @@
 EFI file for MSI motherboard with iGPU  
 
 ----------------------------------------------------------------  
-2020.12.31 update OpenCore 0.6.4  
+2020.12.31 update OpenCore 0.6.4  support macOS 11.1
 
 ----------------------------------------------------------------  
 ## 版本信息（Version infomation）  
